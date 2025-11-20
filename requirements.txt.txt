@@ -1,0 +1,11 @@
+numpy
+pandas
+matplotlib
+seaborn
+ydata-profiling
+sweetviz
+xgboost
+lightgbm
+streamlit
+pyngrok
+ppscore
