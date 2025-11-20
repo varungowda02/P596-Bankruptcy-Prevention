@@ -8,8 +8,6 @@
 
 **Bankruptcy Prevention** is a binary classification project that models the probability a company will go bankrupt using a small, high-impact dataset. The dataset contains ~250 companies and 7 curated features capturing industrial, managerial, financial, and operational signals. The goal is to build a robust, explainable pipeline that flags at-risk companies early so stakeholders can intervene.
 
-**Trendy keywords:** Explainable AI (XAI), SHAP, feature engineering, cross-validation, hyperparameter tuning, model interpretability, MLOps-ready, reproducible pipeline, data storytelling.
-
 ---
 
 ## 🎯 Business Objective
@@ -75,8 +73,6 @@ jupyter notebook /mnt/data/P596_Bankruptacy_Prevention.ipynb
 
 ## 📈 Results & Outputs
 
-*(Add your final model metrics, short bullet summary of best model, and business impact here.)*
-
 * **Best model:** `Logistic Regression`
 * **Top features driving bankruptcy:**
   ` 1. Management Risk  
@@ -87,8 +83,6 @@ jupyter notebook /mnt/data/P596_Bankruptacy_Prevention.ipynb
 ---
 
 ## 🖼 Output image
-
-Add your model output or visualization here. Example markdown image placeholder — replace the path with your generated output image:
 
 <img width="1912" height="932" alt="b" src="https://github.com/user-attachments/assets/86d5b0df-1af4-4488-9262-e1825197adfe" />
 
@@ -112,8 +106,6 @@ Add your model output or visualization here. Example markdown image placeholder 
 * joblib or pickle
 * shap (optional but recommended for XAI)
 * xgboost or lightgbm (optional if used)
-
-Add a `requirements.txt` file if you want deterministic installs.
 
 ---
 
