@@ -1,0 +1,8 @@
+streamlit==1.39.0
+pandas
+numpy
+joblib
+plotly
+fpdf
+openpyxl
+scikit-learn
